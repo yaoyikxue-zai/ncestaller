@@ -21,7 +21,7 @@ ncestaller --helps
 <body> 注意要在支持的环境里执行</body><br>
 那些不会git 命令的或者不想学或者用git命令的人，可以在上线后去Releases页面下载对应的包然后放对应环境解压 执行上面的命令做同样的流程
 
-# FQA <br>
+# FAQ <br>
 
 如果需要帮助可以优先查看helps.help,稍后会更新更多常见问题解答😌
 <br>
