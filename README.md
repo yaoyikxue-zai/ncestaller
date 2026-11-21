@@ -1,3 +1,4 @@
+# 关于一键部署 <br>
 脚本支持一键部署,git好仓库后执行以下命令:
 ```bash
 cd ncestaller/Pkg/ && chmod 755 ncestaller && ./ncestaller installer ncestaller 
