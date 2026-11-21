@@ -2,7 +2,7 @@
 ```bash
 cd ncetaller/Pkg/ && chmod 755 ncestaller && ./ncestaller --installers ncestaller 
 ```
-<title>特别注意⚠</title><br>
+特别注意⚠<br>
 <body> 注意要在支持的环境里执行</body><br>
 
 ---<br>
