@@ -4,7 +4,7 @@ cd ncetaller/Pkg/ && chmod 755 ncestaller && ./ncestaller installer ncestaller
 ```
 同样也支持 
 ```bash
-ncestaller uninstall<br>
+ncestaller uninstall
 ```
 反正玩脱了别找我😝🫪
 <br>
