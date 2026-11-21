@@ -2,15 +2,14 @@
 ```bash
 cd ncetaller/Pkg/ && chmod 755 ncestaller && ./ncestaller installer ncestaller 
 ```
-<br>
 同样也支持 ncestaller uninstall<br>
 <h4>反正玩脱了别找我😝🫪</h4>
 <br>
-更多命令可以在安装后执行:
+更多命令可以在安装后执行:<br>
 ```bash
 ncestaller -h 
 ```
-或者<br>
+或者
 ```bash
 ncestaller --helps
 ```
