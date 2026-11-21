@@ -1,6 +1,6 @@
 脚本支持一键部署,git好仓库后执行以下命令:
 ```bash
-cd ncetaller/Pkg/ && chmod 755 ncestaller && ./ncestaller installer ncestaller 
+cd ncestaller/Pkg/ && chmod 755 ncestaller && ./ncestaller installer ncestaller 
 ```
 同样也支持 
 ```bash
