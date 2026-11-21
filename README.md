@@ -2,9 +2,14 @@
 ```bash
 cd ncetaller/Pkg/ && chmod 755 ncestaller && ./ncestaller --installers ncestaller 
 ```
-特别注意⚠<br>
+#特别注意⚠<br>
 <body> 注意要在支持的环境里执行</body><br>
-
+那些不会git 命令的或者不想学或者用git命令的人，可以在上线后去Releases页面下载对应的包然后放对应环境解压 执行上面的命令做同样的流程
+<br>
+#FQA<br>
+如果需要帮助可以优先查看helps.help<br>
+稍后会更新更多常见问题解答😌
+<br>
 ---<br>
 
 也可以通过这里赞助..🥺
