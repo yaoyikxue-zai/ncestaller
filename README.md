@@ -39,7 +39,11 @@ ncestaller -h
 ncestaller --helps
 ```
 ### •termux 通过Releases下载部署的命令
-```text
+注意！ 包要在当前目录🫠，如果不在，前面必须带上你的目录比如
+```bash
+unzip /storage/emulated/0/ncestallerForTermux.zip
+```
+```bash
 unzip ncestaller_ForTermux.zip && rm -rf ncestaller_ForTermux.zip && chmod 755 ncestaller && ./ncestaller installer ncestaller
 ```
 <br>如果需要帮助可以优先查看helps.help,稍后会更新更多常见问题解答😌
