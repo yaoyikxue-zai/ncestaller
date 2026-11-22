@@ -22,7 +22,7 @@ exit
 ## •关于一键部署 <br>
 脚本支持一键部署,git好仓库后执行以下命令:
 ```bash
-mkdir temp && cd temp/ncestaller/ncestaller/Pkg && unzip ncestaller_ForTermux.zip && cd && cd temp/ncestaller && chmod 755 ncestaller/Pkg/ncestaller && mv ncestaller /data/data/com.termux/files/home && cd && rm -rf temp && ./ncestaller/Pkg/ncestaller installer ncestaller && rm -rf ncestaller
+mkdir temp && mv ncestaller temp && cd temp/ncestaller/ncestaller/Pkg && unzip ncestaller_ForTermux.zip && cd && cd temp/ncestaller && chmod 755 ncestaller/Pkg/ncestaller && mv ncestaller /data/data/com.termux/files/home && cd && rm -rf temp && ./ncestaller/Pkg/ncestaller installer ncestaller && rm -rf ncestaller
 ```
 同样也支持 
 ```bash
