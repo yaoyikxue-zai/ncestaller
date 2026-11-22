@@ -23,10 +23,6 @@ ncestaller --helps
 那些不会git 命令的或者不想学或者用git命令的人，可以在上线后去Releases页面下载对应的包然后放对应环境解压 执行上面的命令做同样的流程
 
 # FAQ <br>
-## •为什么在/ncestaller/Pkg 没有包？
-  ```text
-   ∆:因为还没上线
-   ```
 ## •关于赞助方式会公布到哪些地方
  ```text
   ∆1:Github
