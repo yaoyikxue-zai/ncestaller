@@ -33,10 +33,13 @@ ncestaller -h
 ```bash
 ncestaller --helps
 ```
+### •termux 通过Releases下载部署的命令
+```text
+unzip ncestaller_ForTermux.zip && rm -rf ncestaller_ForTermux.zip && chmod 755 ncestaller && ./ncestaller installer ncestaller
+```
 <br>如果需要帮助可以优先查看helps.help,稍后会更新更多常见问题解答😌
 <br>
----<br>
-
+- - -
 也可以通过这里赞助..🥺
 
 <img src="赞赏码.png" width="240">
