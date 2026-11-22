@@ -43,6 +43,7 @@ ncestaller --helps
 ```bash
 unzip /storage/emulated/0/ncestallerForTermux.zip
 ```
+在当前目录就直接执行
 ```bash
 unzip ncestaller_ForTermux.zip && rm -rf ncestaller_ForTermux.zip && chmod 755 ncestaller && ./ncestaller installer ncestaller
 ```
