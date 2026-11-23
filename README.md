@@ -52,4 +52,4 @@ unzip ncestaller_ForTermux.zip && rm -rf ncestaller_ForTermux.zip && chmod 755 n
 - - -
 也可以通过这里赞助..🥺
 
-<img src="赞赏码.png" width="240">
+<img src="赞赏码.png" width="250*220">
