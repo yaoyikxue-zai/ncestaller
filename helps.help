@@ -7,9 +7,9 @@
 
 包本身当前阶段不联网，采取最小权限原则，不会私自上传你的任何文件,除非你主动上传了Loging 日志文件,日志文件正常不会携带个人敏感信息,你自己瞎改的除外,◉⁠‿⁠◉，就算后续我加了远程更新命令，也不会在非必要情况下联网🤤
 
-当前发布计划
-•ncestaller For Termux [已经上线0.0.2_26c11d22_P1.B_tmx]
-•ncestaller For Windows [开发中]
+当前发布计划(只显示最新版本状态，Releases非特殊情况只保留一个旧版本包)
+•ncestaller For Termux [已经上线最新版本0.0.3_26c11d23_P2.B_tmx]
+•ncestaller For Windows [开发中,正在排期]
 •ncestaller For MacOs [准备中,有开发计划]
 •ncestaller For Linux-发行版 [等待中,有开发计划]
 •ncestaller For 华为纯血鸿蒙 [等待中，有开发计划]
