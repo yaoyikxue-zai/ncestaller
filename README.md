@@ -50,6 +50,10 @@ unzip /storage/emulated/0/ncestallerForTermux.zip
 ```bash
 unzip ncestaller_ForTermux.zip && rm -rf ncestaller_ForTermux.zip && chmod 755 ncestaller && ./ncestaller installer ncestaller
 ```
+
+```bash
+部分文档将随着新版本一起更新，敬请期待
+```
 <br>如果需要帮助可以优先查看helps.help,稍后会更新更多常见问题解答😌
 <br>
 - - -
