@@ -13,9 +13,6 @@
   /
 更多敬请期待，没在这更新的就说明不是我的，正常情况下会在这标注/
  ```
-```text
-工信部你个死扎啤🤬
-```
 
 ## •交互模式怎么使用?
 ```text
@@ -30,9 +27,18 @@ exit
 ```bash
 支持的参数类型
 Slep_sets (opens Or close)
+_init_ (init Or start)  [0.0.3.1P4.n_tmx及以上版本可用]
 ----
 实例:
+#Slep_sets
+
 ncestaller sets Slep_sets=opens
+ncestaller sets Slep_sets=close
+
+#_init_ 
+
+ncestaller _init_ init 
+
 ```
 
 ## •关于一键部署 <br>
@@ -73,3 +79,7 @@ unzip ncestaller_ForTermux.zip && rm -rf ncestaller_ForTermux.zip && chmod 755 n
 也可以通过这里赞助..🥺
 
 <img src="赞赏码.png" width="250*220">
+
+```text
+工信部你个死扎啤🤬
+```
