@@ -22,6 +22,15 @@
 exit
 
 ```
+## •sets 能控制的开关参数
+```bash
+支持的参数类型
+Slep_sets (opens Or close)
+----
+实例:
+ncestaller sets Slep_sets=opens
+```
+
 ## •关于一键部署 <br>
 脚本支持一键部署,git好仓库后执行以下命令(从GitHub下载的是这个命令,不用进入目录):
 ```bash
