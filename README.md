@@ -34,7 +34,7 @@ ncestaller sets Slep_sets=opens
 ## •关于一键部署 <br>
 脚本支持一键部署,git好仓库后执行以下命令(从GitHub下载的是这个命令,不用进入目录):
 ```bash
-mkdir temp && mv ncestaller temp && cd temp/ncestaller/ncestaller/Pkg && unzip ncestaller_ForTermux.zip && cd && cd temp/ncestaller && chmod 755 ncestaller/Pkg/ncestaller && mv ncestaller /data/data/com.termux/files/home && cd && rm -rf temp && ./ncestaller/Pkg/ncestaller installer ncestaller && rm -rf ncestaller
+mkdir temp && mv ncestaller temp && cd temp/ncestaller/ncestaller/Pkg && unzip -o ncestaller_ForTermux.zip && cd && cd temp/ncestaller && chmod 755 ncestaller/Pkg/ncestaller && mv ncestaller /data/data/com.termux/files/home && cd && rm -rf temp && ./ncestaller/Pkg/ncestaller installer ncestaller && rm -rf ncestaller
 ```
 当然，在安装完成后，同样也支持 
 ```bash
